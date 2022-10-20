@@ -12,7 +12,8 @@
   2. Masukkan _command_ sesuai dengan tugas yang ada di _eCampus_.
   3. Jika _command_ benar, maka kode di eksekusi dengan benar oleh CMD atau text editor seperti **Sublime Text** atau **Visual        Studio Code**.🥳
   ![menjalankan python](/gambar/5.png)
-  > Pada _syntax_ atau kode tersebut terdapat ambigu, khususnya dibaris ke-12 yang seharusnya _output_ 86 menjadi penjumlahan `8 + 6 = 14`. Saya pun masih bingung penulisan yang benar seperti apa🙄🧐
+  > Pada _syntax_ atau kode tersebut terdapat ambigu, khususnya dibaris ke-12 yang seharusnya _output_ 86 menjadi penjumlahan `8 + 6 = 14`.     Saya pun masih bingung penulisan yang benar seperti apa🙄🧐
+
   ![menjalankan python](/gambar/6.png)
   > Nah terlihat kan pada gambar-gambar sebelumnya saya menggunakan text editor **Sublime Text**. Kenapa? karena ringan🤭
 ## _Penutup_
